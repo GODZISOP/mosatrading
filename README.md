@@ -12,9 +12,9 @@ Official digital catalog and wholesale procurement portal for **MOSAFIR TRADING 
   * **Operations:** Global Distribution & Wholesale Trade Hub (Middle East & North America)
 
 ## 🛍️ Product Catalog & Collections
-1. **Home & Modern Living** (AeroPure Pro HEPA Air Purifiers, Lumina Touch LED Task Lamps)
-2. **Personal Care & Fragrances** (Velvet Amber & Royal Oud Artisan Perfumes, Botanical Ceramide Treatments)
-3. **Smart Tech & Gadgets** (ApexPro ANC Spatial Headphones, NovaCharge 100W GaN Chargers)
+1. **Smart Tech & Gadgets** (ApexPro ANC Spatial Headphones, ChronoSync Pro AMOLED Smartwatches)
+2. **Home & Modern Living** (Lumina Touch LED Task Lamps, AeroMist Ceramic Aroma Diffusers)
+3. **Personal Care & Wellness** (RevitaPro Percussion Massage Guns, Velvet Amber & Royal Oud Perfumes)
 4. **Gourmet & Pantry Staples** (Royal Sidr Mountain Raw Honey, Artisan Single-Estate Olive Oil)
 
 ## 💻 Tech Stack
