@@ -1,21 +1,21 @@
-# Smart AI Ventures LLC - Wholesale, General Trading & E-Commerce Website
+# Mosafir Trading LLC - Wholesale, General Trading & E-Commerce Website
 
-Official digital catalog and wholesale procurement portal for **SMART AI VENTURES LLC**.
+Official digital catalog and wholesale procurement portal for **MOSAFIR TRADING LLC**.
 
 ## 🌟 Overview
-* **Brand:** Smart AI Ventures LLC
-* **Tagline:** Smart Technology, Wholesale Trading & Global Distribution
-* **Website:** https://www.smartaiventuresllc.com
+* **Brand:** Mosafir Trading LLC
+* **Tagline:** Global Wholesale Distribution, General Trading & Supply Chain Solutions
+* **Website:** https://www.mosafirtradingllc.com
 * **Primary Contacts:**
-  * **Email:** info@smartaiventuresllc.com
+  * **Email:** info@mosafirtradingllc.com
   * **Phone / WhatsApp:** (+966) 53 098 7507
   * **Operations:** Global Distribution & Wholesale Trade Hub (Middle East & North America)
 
 ## 🛍️ Product Catalog & Collections
-1. **Home & Modern Living** (Cookware Master Sets, Ultrasonic Aroma Diffusers)
-2. **Personal Care & Fragrances** (Oud Royale Grooming Elixirs, Hydra-Restore Skincare)
-3. **Smart Tech & Gadgets** (AuraPro ANC Headphones, HyperCharge 65W GaN Chargers)
-4. **Gourmet & Pantry Staples** (Saffron Gold Royal Reserve Tea, Cold-Pressed Extra Virgin Olive Oil)
+1. **Home & Modern Living** (AeroPure Pro HEPA Air Purifiers, Lumina Touch LED Task Lamps)
+2. **Personal Care & Fragrances** (Velvet Amber & Royal Oud Artisan Perfumes, Botanical Ceramide Treatments)
+3. **Smart Tech & Gadgets** (ApexPro ANC Spatial Headphones, NovaCharge 100W GaN Chargers)
+4. **Gourmet & Pantry Staples** (Royal Sidr Mountain Raw Honey, Artisan Single-Estate Olive Oil)
 
 ## 💻 Tech Stack
 * React 18
